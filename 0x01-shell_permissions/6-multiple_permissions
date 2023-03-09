@@ -1,2 +1,2 @@
 #!/bin/bash
---x--xr--
+echo '--x--xr--' >hello
